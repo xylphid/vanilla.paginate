@@ -4,8 +4,9 @@ Vanilla paginate is a simple list paginator in Vanilla-JS.
 
 ## Installation
 
-Include `vanilla.paginate.min.js` script :
+Include [vanilla](https://github.com/xylphid/vanilla) and `vanilla.paginate.min.js` script :
 ```html
+<script src="vanilla.min.js" type="text/javascript" charset="utf-8" />
 <script src="vanilla.paginate.min.js" type="text/javascript" charset="utf-8" />
 ```
 
